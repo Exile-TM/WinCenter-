@@ -1,160 +1,149 @@
-# WinCenter™
-
 <div align="center">
+  <img src="images/wincenter-banner.png" alt="WinCenter logo" width="430">
 
-<img src="images/wincenter-banner.png" alt="WinCenter™ Banner" width="900">
+  <p><strong>Everything you need to manage, protect and customise Windows — all in one place.</strong></p>
 
-### All your Windows tools, in one place.
+  <p>
+    <a href="https://github.com/Exile-TM/WinCenter-/releases/latest"><img src="https://img.shields.io/github/v/release/Exile-TM/WinCenter-?display_name=tag&sort=semver&label=release&color=2ea44f" alt="Latest release"></a>
+    <a href="https://github.com/Exile-TM/WinCenter-/releases"><img src="https://img.shields.io/github/downloads/Exile-TM/WinCenter-/total?label=downloads&color=0078d4" alt="Total downloads"></a>
+    <img src="https://img.shields.io/badge/Windows-7%20%7C%2010%20%7C%2011-0078d4?logo=windows" alt="Windows 7, 10 and 11">
+    <img src="https://img.shields.io/badge/.NET%20Framework-4.8-512bd4" alt=".NET Framework 4.8">
+    <img src="https://img.shields.io/badge/licence-proprietary-dc3545" alt="Proprietary licence">
+  </p>
 
-**WinCenter™** is a Windows utility suite designed to bring together system tools, maintenance, privacy, customization, software management and advanced features inside a single interface.
-
-**Compatible with Windows 7, Windows 10 and Windows 11**
-
+  <p>
+    <a href="https://github.com/Exile-TM/WinCenter-/releases/latest"><strong>Download the latest version</strong></a>
+    ·
+    <a href="https://github.com/Exile-TM/WinCenter-/releases">Release notes</a>
+    ·
+    <a href="https://www.youtube.com/@RossettoPaolo">YouTube channel</a>
+  </p>
 </div>
 
----
+![WinCenter home screen](images/wincenter-main.png)
 
-## Overview
+## What is WinCenter™?
 
-WinCenter™ is an independent Windows project focused on simplifying operations that are normally spread across different settings, commands and utilities.
+**WinCenter™** is a desktop suite that brings Windows management, maintenance, security and customisation tools together in a single interface.
 
-Its goal is to offer a cleaner, faster and more practical way to manage Windows, especially for users who want many tools collected in one place.
+It is designed to reduce the time spent moving between Control Panel pages, system commands, download websites and separate utilities. Everyday features remain easy to reach, while advanced tools are organised into dedicated sections with clear descriptions and compatibility checks.
 
----
+WinCenter™ is developed by **Paolo Rossetto / Exile-TM** for the **Informatica Spiegata Male** YouTube channel. It is an independent project and is not affiliated with Microsoft.
 
-## Main Features
+## What can you do with it?
 
-| Area               | Description                                                   |
-| ------------------ | ------------------------------------------------------------- |
-| **System Tools**   | Windows maintenance, diagnostics and repair tools             |
-| **Privacy**        | Privacy Guard and telemetry-related configuration             |
-| **Security**       | Firewall, Defender, DNS Guard and related tools               |
-| **Drivers**        | Driver information, backup and restore features               |
-| **Software**       | Quick access to useful software and utilities                 |
-| **Customization**  | Windows customization and interface-related tools             |
-| **MegaISO™**       | Advanced Windows ISO creation and customization               |
-| **Steam Legacy**   | Experimental tools for Steam compatibility on legacy systems  |
-| **WinCenter™ HUB** | Full-screen multimedia and control experience                 |
-| **Quick Panel**    | Fast access to important functions from the notification area |
+| Area                             | Main features                                                                                                                                                               |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PC diagnostics and health**    | System information and checks covering Windows, storage, memory, startup items, security and updates.                                                                       |
+| **Maintenance and repair**       | Cleanup, optimisation, startup management and tools for identifying or repairing Windows problems.                                                                          |
+| **Security and privacy**         | Antivirus and firewall status, security scans, Privacy Guard and controls for privacy-sensitive Windows settings.                                                           |
+| **Drivers and updates**          | Update management, driver inventory, driver backups and Driver Store maintenance tools.                                                                                     |
+| **MegaISO®**                     | Guided creation of customised Windows installation media with drivers, updates, languages, components and multiple editions.                                                |
+| **Software and utilities**       | An organised catalogue of essential software, Microsoft tools, internet applications, multimedia software, development tools, document utilities and file-sharing programs. |
+| **Backup and post-installation** | Tools for preparing, saving and restoring useful configurations during maintenance or after reinstalling Windows.                                                           |
+| **WinCenter™ experience**        | Integrated search, themes, customisable tiles, a quick panel, in-app updates and an interface available in multiple languages.                                              |
+| **WinCenter™ multimedia**        | Lightweight games, local music playback, Quick Panel features and the evolving WinCenter™ HUB experience.                                                                   |
 
----
+> Some operations change system settings or require administrator privileges. WinCenter™ explains the relevant steps and requests elevation only when it is needed.
 
 ## Screenshots
 
-<div align="center">
+### WinCenter™ HUB
 
-<img src="images/wincenter-main.png" alt="WinCenter Main Interface" width="760">
+![WinCenter HUB](images/wincenter-hub.png)
 
-<br><br>
+### MegaISO™
 
-<img src="images/wincenter-hub.png" alt="WinCenter HUB" width="760">
+![WinCenter MegaISO](images/wincenter-megaiso.png)
 
-</div>
+### Quick Panel
 
-> Screenshots may vary depending on the version of WinCenter™.
+![WinCenter Quick Panel](images/wincenter-quick-panel.png)
 
----
+## WinCenter™ Free and WinCenter™ Pro
 
-## Downloads
+The free edition provides access to the core suite, the software catalogue and many included utilities. **WinCenter™ Pro** unlocks additional advanced tools for diagnostics, privacy, repair, performance and PC management.
 
-Official versions of **WinCenter™** are available in the **Releases** section of this repository.
+Pro is activated directly inside WinCenter™ using a personal licence key. Current details about included features and purchase options are always available in the appropriate section of the application.
 
-### Available Versions
+## Download and installation
 
-| Version        | Status    | Notes              |
-| -------------- | --------- | ------------------ |
-| WinCenter™ 1.0 | Archived  | Historical release |
-| WinCenter™ 1.2 | Archived  | Historical release |
-| WinCenter™ 2.0 | Archived  | Historical release |
-| WinCenter™ 2.5 | Archived  | Historical release |
-| WinCenter™ 3.0 | Archived  | Historical release |
-| WinCenter™ 3.5 | Available | Public release     |
-| WinCenter™ 4.0 | Upcoming  | Not yet released   |
+1. Open the [latest official release](https://github.com/Exile-TM/WinCenterTM/releases/latest).
+2. Expand the **Assets** section and download `WinCenter_Setup_vX.Y.exe`.
+3. Run the installer and follow the setup wizard.
+4. Launch WinCenter™ from the Start menu. The application may request administrator privileges when you use features that make system-level changes.
 
-> Always download WinCenter™ from official sources only.
+When included in a release, Android companion packages can also be provided separately. They are optional and not required to use the desktop suite.
 
----
+> **SmartScreen notice:** depending on the distributed build, Windows may display an “Unknown publisher” warning. Download WinCenter™ only from this repository and its official Releases section.
 
 ## Requirements
 
-* Windows 7 SP1 or later
-* Windows 10 / Windows 11
+* Windows 7 SP1, Windows 10 or Windows 11
+* Microsoft .NET Framework 4.8
 * Microsoft Edge WebView2 Runtime
-* .NET Framework required by WinCenter™
-* Administrator privileges for some functions
+* An internet connection for the online catalogue, downloads and update checks
+* Administrator privileges for features that modify Windows, drivers, the firewall or system images
 
-Some features may not be available on all Windows versions.
+WebView2 is normally already available on Windows 10 and Windows 11. If the interface does not load, install or repair the [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/microsoft-edge/webview2/).
 
----
+## MegaISO®
 
-## Free and Pro
+MegaISO® is WinCenter™’s environment for preparing customised Windows installation images. Its guided workflow lets you choose the source image, Windows editions and resources to integrate, while validating the configuration before the build begins.
 
-WinCenter™ includes both **free features** and **advanced features reserved for the Pro version**.
+Available operations include:
 
-The free version remains usable without requiring the Pro upgrade.
+* managing multiple Windows editions in the same ISO
+* integrating drivers, updates and language packs
+* customising components and the final output
+* using profiles designed for different Windows versions
+* detecting incompatible combinations before the build starts
+* following progress and detailed logs throughout the process
 
----
+MegaISO® works with Windows images and installation files. Always use original sources, keep a backup of important data and test the resulting media before using it on a production computer.
 
-## Security and Integrity
+## Project status
 
-Recent versions of WinCenter™ include an internal resource protection and integrity verification system.
+WinCenter™ is under **active development**. Stable versions, release notes and official downloads are published in [GitHub Releases](https://github.com/Exile-TM/WinCenterTM/releases).
 
-If protected files are modified or damaged, WinCenter™ may refuse to start correctly.
+The project is primarily built with:
 
-For this reason, it is strongly recommended to download the application only from official sources.
+* C# and Windows Forms
+* .NET Framework 4.8
+* Microsoft Edge WebView2 for the interface
+* Inno Setup for installer distribution
 
----
+## Releases
 
-## Changelog
+This repository is intended to host:
 
-Each published version includes its own changelog in the related **Release** page.
+* official WinCenter™ releases
+* changelogs
+* screenshots
+* public project information
 
-Release notes may include:
+Older versions remain available for historical reference whenever they are included in the Releases section.
 
-* new features
-* visual improvements
-* bug fixes
-* performance optimizations
-* compatibility improvements
-* internal security improvements
+## Support
 
----
+For guides, demonstrations and project updates, visit the [Informatica Spiegata Male](https://www.youtube.com/@RossettoPaolo) YouTube channel.
 
-## Source Code
+If needed, support information can also be provided through official project channels.
+
+## Source code
 
 The full source code of WinCenter™ is **not distributed through this repository**.
 
-This repository is intended only for:
+This repository is intended only for public releases, documentation and project information.
 
-* official releases
-* changelogs
-* public documentation
-* screenshots and public project information
+## Licence
 
----
+WinCenter™ is **proprietary software — all rights reserved**.
 
-## Author
+This repository does not grant permission to copy, modify, redistribute, publish or use the software, its resources or derivative works without the author's explicit permission.
 
-**Exile™**
-**Informatica Spiegata Male**
+## Trademarks and disclaimer
 
-WinCenter™ is an independent project focused on Windows users, including those who still care about legacy Windows systems.
+WinCenter™ is an independent project and is not affiliated with, endorsed by or sponsored by Microsoft Corporation. Microsoft, Windows and all other names or trademarks mentioned belong to their respective owners.
 
----
-
-## Copyright
-
-**WinCenter™ © Exile™**
-All rights reserved.
-
-WinCenter™, MegaISO™ and related project names may not be redistributed, modified or used to create derivative products without permission.
-
----
-
-<div align="center">
-
-### WinCenter™
-
-**Windows, managed better.**
-
-</div>
+The software is provided “as is”. Before applying significant system changes or creating installation media, back up your data and review the selected options carefully.
